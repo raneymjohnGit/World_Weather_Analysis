@@ -116,13 +116,13 @@ Steps 9-11: Refactor the code from Steps 2-4 to create a new marker layer map of
 ## Waether, Vacation, Travel Itinerary Results
 
 - Image of DataFrame for 2000 random cities
-    ![image_name](https://github.com/raneymjohnGit/PyBer_Analysis/blob/main/analysis/PyberSummaryDF.png)
+    ![image_name](https://github.com/raneymjohnGit/World_Weather_Analysis/blob/main/Weather_Database/city_dataframe.png)
 
 - Image of vacation spots based on user tempearature preferences
-    ![image_name](https://github.com/raneymjohnGit/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
+    ![image_name](https://github.com/raneymjohnGit/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png)
 
 - Image of travel itinerary for the user selected four cities
-    ![image_name](https://github.com/raneymjohnGit/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
+    ![image_name](https://github.com/raneymjohnGit/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)
  
 - Image of city, hotel and weather for the user selected four cities
-    ![image_name](https://github.com/raneymjohnGit/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
+    ![image_name](https://github.com/raneymjohnGit/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
