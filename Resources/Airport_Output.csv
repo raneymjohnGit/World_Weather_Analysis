@@ -1,0 +1,10 @@
+,City,State,lat,lng,airport name,airport address,airport rating
+0,New York City,New York,40.7127753,-74.0059728,John F. Kennedy International Airport,Queens,4
+1,Los Angeles,California,34.0522342,-118.2436849,Los Angeles International Airport,"1 World Way, Los Angeles",3.9
+2,Chicago,Illinois,41.8781136,-87.6297982,O'Hare International Airport,"10000 W O'Hare Ave, Chicago",4
+3,Houston,Texas,29.7604267,-95.3698028,George Bush Intercontinental Airport,"2800 N Terminal Rd, Houston",4.2
+4,Philadelphia,Pennsylvania,39.9525839,-75.1652215,Philadelphia International Airport,"8000 Essington Ave, Philadelphia",3.9
+5,Phoenix,Arizona,33.4483771,-112.0740373,Phoenix Sky Harbor International Airport,"3400 E Sky Harbor Blvd, Phoenix",4.3
+6,San Antonio,Texas,29.4241219,-98.49362819999999,San Antonio International Airport,"9800 Airport Blvd, San Antonio",4.1
+7,San Diego,California,32.715738,-117.1610838,San Diego International Airport,"3225 N Harbor Dr, San Diego",4.3
+8,Dallas,Texas,32.7766642,-96.79698789999999,Dallas/Fort Worth International Airport,"2400 Aviation Dr, DFW Airport",4.1
